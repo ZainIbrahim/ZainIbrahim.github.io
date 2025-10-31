@@ -7,12 +7,12 @@
     "phone": "256743175812",
     "location": "Kampala, Central Region, Uganda"
   },
-  "summary": "A short summary of who you are, your background, experience, and interests to give visitors a quick introduction to you.",
+  "summary": "I am passionate about software development and have over three years of experience building and delivering software solutions.",
   "base_url": "127.0.0.1:5500",
   "social_links": [
     {
       "label": "Personal Website",
-      "url": "https://sample.com",
+      "url": "https://zainibrahim.github.io/",
       "svg_path": "img/globe.svg"
     },
     {
@@ -164,36 +164,7 @@
       "proficiency_label": "Proficiency Level"
     }
   ],
-  "interests": [
-    {
-      "name": "My First Hobby",
-      "summary": "Short summary about my first Hobby",
-      "images": [
-        {
-          "img_path": "https://picsum.photos/600/338?random=7",
-          "caption": "Image Caption 7"
-        },
-        {
-          "img_path": "https://picsum.photos/600/338?random=8",
-          "caption": "Image Caption 8"
-        }
-      ]
-    },
-    {
-      "name": "My Second Hobby",
-      "summary": "Short summary about my second hobby",
-      "images": [
-        {
-          "img_path": "https://picsum.photos/600/338?random=9",
-          "caption": "Image Caption 9"
-        },
-        {
-          "img_path": "https://picsum.photos/600/338?random=10",
-          "caption": "Image Caption 10"
-        }
-      ]
-    }
-  ],
+
   "languages": [
     {
       "language": "English",
