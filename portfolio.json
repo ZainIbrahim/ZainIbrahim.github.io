@@ -1,0 +1,219 @@
+{
+  "name": "Zeinalabidin Mohamed",
+  "label": "Software Engineer",
+  "image_path": "img/1665124764819.jpeg",
+  "contact": {
+    "email": "Zaynalcabidin@gmail.com",
+    "phone": "256743175812",
+    "location": "Kampala, Central Region, Uganda"
+  },
+  "summary": "A short summary of who you are, your background, experience, and interests to give visitors a quick introduction to you.",
+  "base_url": "127.0.0.1:5500",
+  "social_links": [
+    {
+      "label": "Personal Website",
+      "url": "https://sample.com",
+      "svg_path": "img/globe.svg"
+    },
+    {
+      "label": "LinkedIn",
+      "url": "https://www.linkedin.com/in/zeinalabidin-i-2b6439118/",
+      "svg_path": "img/linkedin.svg"
+    },
+    {
+      "label": "Github",
+      "url": "https://github.com/ZainIbrahim",
+      "svg_path": "img/github.svg"
+    }
+  ],
+  "work_experience": [
+    {
+      "company": "Sadja WebSolutions",
+      "position": "Full-Stack Web Developer",
+      "url": "https://sadjawebsolutions.com/",
+      "start_date": "01/06/2024",
+      "end_date": "Present",
+      "summary": "Designed and built websites for small to medium businesses",
+      "highlights": [
+        "Collecting and analysing requirements from the clients",
+        "Desiging and prototyping the reqirements",
+        "Developing, testing and maintaining the Websites"
+      ]
+    },
+    {
+      "company": "Nkumba University",
+      "position": "Part-time Lecturer",
+      "url": "https://nkumbauniversity.ac.ug/",
+      "start_date": "01/02/2024",
+      "end_date": "Present",
+      "summary": "Gave Lectures at university as well as managing classrooms",
+      "highlights": [
+        "Lectured the courses 'Operating System', 'Software Engineering'",
+        "Helped students prepare for exams, assignments and quizzes",
+        "Advised students with career and academic related questions"
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "title": "University Web Portal",
+      "summary": "Project has lecturer portal, sutdent protal and staff portal",
+      "url": "#",
+      "highlights": [
+        "The project has 4 end users. admins, staffs, students and teachers ",
+        "It was developed over a span of 6 months",
+        "User authorisation, privleges and crud"
+      ],
+      "images": [
+        {
+          "img_path": "img/projectone1.png",
+          "caption": "Student view"
+        },
+        {
+          "img_path": "img/projectone2.png",
+          "caption": "Privileges"
+        },
+        {
+          "img_path": "img/projectone3.png",
+          "caption": "Markes Entry"
+        }
+      ]
+    },
+    {
+      "title": "Task Management System",
+      "summary": "Companies can keep track of employees tasks.",
+      "url": "https://maareye.somtelsomalia.net/view/index",
+      "highlights": [
+        "management level, section level and unit level",
+        "Performance would be gived based on the tasks done",
+        "Tasks are approved by the management"
+      ],
+      "images": [
+        {
+          "img_path": "img/projecttwo1.png",
+          "caption": "Dashboard"
+        },
+        {
+          "img_path": "img/projecttwo2.png",
+          "caption": "Tasks Management"
+        },
+        {
+          "img_path": "img/projecttwo3.png",
+          "caption": "Reports"
+        }
+      ]
+    }
+  ],
+  "volunteer_experience": [
+    {
+      "organization": "Fresh Futures sdn bhd",
+      "position": "Web Scrapper",
+      "url": "https://www.freshfutures.com.au/",
+      "start_date": "01/06/2020",
+      "end_date": "20/01/2021",
+      "summary": "I scraped university webistes accross Australia",
+      "highlights": [
+        "Collected data from websites",
+        "Worked in groups to scrape large websites",
+        "Used Python, BeautifulSoup, etc"
+      ]
+    },
+    {
+      "organization": "Infocomm Development Centre",
+      "position": "Web Developer",
+      "url": "https://idec.upm.edu.my/",
+      "start_date": "01/02/2018",
+      "end_date": "10/07/2028",
+      "summary": "I developed a helpdesk system for the company",
+      "highlights": [
+        "Development of web application projects",
+        "Design, Development, Testing and Deploying",
+        "languages: PHP, JavaScript, HTML, and CSS"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Universiti Teknologi Malaysia",
+      "location": "Kuala Lumpur, Malaysia",
+      "url": "https://kl.utm.my/",
+      "degrees": ["Master of Software Engineering"],
+      "gpa_cumulative": "3.8",
+      "gpa_major": "4.0",
+      "graduation_date": "01/02/2021"
+    },
+    {
+      "institution": "Universiti Putra Malaysia",
+      "location": "Serdang, Malaysia",
+      "url": "https://www.upm.edu.my/",
+      "degrees": ["Bachelor of Computer Science"],
+      "gpa_cumulative": "3.0",
+      "gpa_major": "3.9",
+      "graduation_date": "10/03/2019"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Web developement",
+      "proficiency": 100,
+      "proficiency_label": "Proficiency Level"
+    },
+    {
+      "name": "Teaching",
+      "proficiency": 80,
+      "proficiency_label": "Proficiency Level"
+    }
+  ],
+  "interests": [
+    {
+      "name": "My First Hobby",
+      "summary": "Short summary about my first Hobby",
+      "images": [
+        {
+          "img_path": "https://picsum.photos/600/338?random=7",
+          "caption": "Image Caption 7"
+        },
+        {
+          "img_path": "https://picsum.photos/600/338?random=8",
+          "caption": "Image Caption 8"
+        }
+      ]
+    },
+    {
+      "name": "My Second Hobby",
+      "summary": "Short summary about my second hobby",
+      "images": [
+        {
+          "img_path": "https://picsum.photos/600/338?random=9",
+          "caption": "Image Caption 9"
+        },
+        {
+          "img_path": "https://picsum.photos/600/338?random=10",
+          "caption": "Image Caption 10"
+        }
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Second Language"
+    },
+    {
+      "language": "Arabic",
+      "fluency": "Working Proficiency"
+    }
+  ],
+  "references": [
+    {
+      "name": "Mohamed Ali Adan",
+      "relation": "Previous Boss",
+      "reference": "What I like about Zain is he tries to do his job the best way possible. He doesn't take shortcuts nor look for the easy way out. He really does work professionally. I thank him"
+    },
+    {
+      "name": "Abdisalan Ahmed",
+      "relation": "Previous Coworker",
+      "reference": "He doesn't say no to the little or boring jobs. He takes whatever is thrown at him and he does it well."
+    }
+  ]
+}
