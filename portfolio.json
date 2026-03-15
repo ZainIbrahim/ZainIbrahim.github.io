@@ -4,8 +4,8 @@
   "image_path": "img/1665124764819.jpeg",
   "contact": {
     "email": "Zaynalcabidin@gmail.com",
-    "phone": "256743175812",
-    "location": "Kampala, Central Region, Uganda"
+    "phone": "+14378876140",
+    "location": "Toronto, Canada"
   },
   "summary": "I am passionate about software development and have over three years of experience building and delivering software solutions.",
   "base_url": "127.0.0.1:5500",
@@ -28,9 +28,9 @@
   ],
   "work_experience": [
     {
-      "company": "Sadja WebSolutions",
+      "company": "Somtel",
       "position": "Full-Stack Web Developer",
-      "url": "https://sadjawebsolutions.com/",
+      "url": "https://www.somtelnetwork.net/",
       "start_date": "01/06/2024",
       "end_date": "Present",
       "summary": "Designed and built websites for small to medium businesses",
@@ -41,9 +41,9 @@
       ]
     },
     {
-      "company": "Nkumba University",
+      "company": "Simad University",
       "position": "Part-time Lecturer",
-      "url": "https://nkumbauniversity.ac.ug/",
+      "url": "https://simad.edu.so/",
       "start_date": "01/02/2024",
       "end_date": "Present",
       "summary": "Gave Lectures at university as well as managing classrooms",
