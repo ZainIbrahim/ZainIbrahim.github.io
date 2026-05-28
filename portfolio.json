@@ -1,13 +1,13 @@
 {
-  "name": "Zeinalabidin Mohamed",
-  "label": "Software Engineer",
+  "name": "Zain Mohamed",
+  "label": "IT Support",
   "image_path": "img/1665124764819.jpeg",
   "contact": {
     "email": "Zaynalcabidin@gmail.com",
-    "phone": "+14378876140",
+    "phone": "+647 762 9337",
     "location": "Toronto, Canada"
   },
-  "summary": "I am passionate about software development and have over three years of experience building and delivering software solutions.",
+  "summary": "I am passionate about supporting technology and have over two years of experience supporting and various types of technologies.",
   "base_url": "127.0.0.1:5500",
   "social_links": [
     {
@@ -36,7 +36,7 @@
       "summary": "Designed and built websites for small to medium businesses",
       "highlights": [
         "Collecting and analysing requirements from the clients",
-        "Desiging and prototyping the reqirements",
+        "Designing and prototyping the requirements",
         "Developing, testing and maintaining the Websites"
       ]
     },
@@ -57,12 +57,12 @@
   "projects": [
     {
       "title": "University Web Portal",
-      "summary": "Project has lecturer portal, sutdent protal and staff portal",
+      "summary": "Project has lecturer portal, student portal and staff portal",
       "url": "#",
       "highlights": [
         "The project has 4 end users. admins, staffs, students and teachers ",
         "It was developed over a span of 6 months",
-        "User authorisation, privleges and crud"
+        "User authorisation, privileges and crud"
       ],
       "images": [
         {
@@ -85,7 +85,7 @@
       "url": "https://maareye.somtelsomalia.net/view/index",
       "highlights": [
         "management level, section level and unit level",
-        "Performance would be gived based on the tasks done",
+        "Performance would be given based on the tasks done",
         "Tasks are approved by the management"
       ],
       "images": [
@@ -111,7 +111,7 @@
       "url": "https://www.freshfutures.com.au/",
       "start_date": "01/06/2020",
       "end_date": "20/01/2021",
-      "summary": "I scraped university webistes accross Australia",
+      "summary": "I scraped university websites across Australia",
       "highlights": [
         "Collected data from websites",
         "Worked in groups to scrape large websites",
@@ -154,7 +154,7 @@
   ],
   "skills": [
     {
-      "name": "Web developement",
+      "name": "Web development",
       "proficiency": 100,
       "proficiency_label": "Proficiency Level"
     },
